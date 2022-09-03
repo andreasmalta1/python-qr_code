@@ -42,7 +42,7 @@ def main():
         print("----MENU-----")
         print("1. Generate QR")
         print("2. Read QR")
-        print("5. Exit")
+        print("3. Exit")
         # Collecting user choice
         response = input("Choice: ")
 
